@@ -6,3 +6,12 @@
   /*border box/box-sizing: what this does is to ignore padding and organise the box.*/
   font-family: "Poppins", sans-serif;
 }
+
+body {
+  background-color: white;
+}
+
+.container {
+  width: 350px;
+  border: 1px solid black;
+}
