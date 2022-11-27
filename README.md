@@ -3,3 +3,4 @@
 - JavaScript
 - HTML
 - CSS
+- SCSS
