@@ -7,4 +7,4 @@
 - CSS
 - SCSS
 
-[![Alternate Text]({img\pokiImage.jpg})]({} "Link Title")
+[![Alternate Text](img\pokiImage.jpg)]({} "Link Title")
