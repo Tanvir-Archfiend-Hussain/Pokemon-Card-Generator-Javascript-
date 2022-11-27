@@ -1,2 +1,5 @@
-# Pokemon Card Generator Javascript 
- 
+# Pokemon Card Generator Javascript
+
+- JavaScript
+  *HTML
+  *CSS
