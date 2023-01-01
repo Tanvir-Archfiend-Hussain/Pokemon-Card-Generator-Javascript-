@@ -7,6 +7,7 @@
 - CSS
 - SCSS
 
+
  <img src="img/pokiImage.jpg" alt="" />
  Pokémon is a series of video games developed by Game Freak and published by Nintendo and The Pokémon Company under the Pokémon media franchise. It was created by Satoshi Tajiri with assistance from Ken Sugimori, the first games, Pocket Monsters Red and Green, were released in 1996 in Japan for the Game Boy, later released outside of Japan as Pokémon Red and Blue. The main series of role-playing video games (RPGs), referred as the "core series" by their developers, have continued on each generation of Nintendo's handhelds. The most recently released core series game, Pokémon Scarlet and Violet, was released on November 18, 2022, for the Nintendo Switch.
 
